@@ -93,7 +93,7 @@ Double DRDO intern and IEEE-published researcher (multi-agent LLM architectures,
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aj242005&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj242005&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj242005&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=solidity,jupyter%20notebook" height="165"/>
 
 </div>
 
